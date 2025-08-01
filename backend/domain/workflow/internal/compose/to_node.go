@@ -29,7 +29,7 @@ import (
 	"github.com/cloudwego/eino/compose"
 	"github.com/cloudwego/eino/schema"
 
-	workflow3 "github.com/coze-dev/coze-studio/backend/api/model/ocean/cloud/workflow"
+	workflow3 "github.com/coze-dev/coze-studio/backend/api/model/workflow"
 	workflow2 "github.com/coze-dev/coze-studio/backend/domain/workflow"
 	crosscode "github.com/coze-dev/coze-studio/backend/domain/workflow/crossdomain/code"
 	crossconversation "github.com/coze-dev/coze-studio/backend/domain/workflow/crossdomain/conversation"
